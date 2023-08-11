@@ -6,13 +6,13 @@ en el marco de la muestra de diseño abierto UDP realizada el primer semestre 20
 
 ## obras
 
-### arpillera mirror (2019)
+### arpillera mirror (2019) [link](https://andresmartinm.github.io/diseno-abierto-inteligencia-artificial-2023/arpillera-mirror/)
 
 esta obra usa una técnica conocida como transferencia de estilo, donde se entrena a a un algoritmo de IA con una imagen de referencia, a partir de la cual se extrae un estilo gráfico, que luego es aplicado a otras imágenes.
 
 esta obra de 2019 corre en el navegador Google Chrome, y para su realización se usaron de imágenes de referencia  arpilleras de Violeta Parra, que se pueden seleccionar con el teclado numérico del computador, y cuyo estilo luego es transferido a la imagen en vivo de la cámara web del computador, a una velocidad baja de alrededor 1 cuadro por segundo.
 
-## distancia manos KNN (2023)
+## distancia manos KNN (2023) [link](https://andresmartinm.github.io/diseno-abierto-inteligencia-artificial-2023/distancia-dedos-knn/)
 
 esta obra usa un clasificador de posición de manos con un algoritmo KNN. esta información es usada para detectar en una webcam la posición de los dedos pulgar e índice de una mano, y según la distancia entre ellos, aumentar o disminuir la distancia entre caracteres de un elemento textual en una página web.
 
