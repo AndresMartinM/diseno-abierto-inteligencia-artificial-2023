@@ -12,7 +12,7 @@ esta obra usa una técnica conocida como transferencia de estilo, donde se entre
 
 esta obra de 2019 corre en el navegador Google Chrome, y para su realización se usaron de imágenes de referencia  arpilleras de Violeta Parra, que se pueden seleccionar con el teclado numérico del computador, y cuyo estilo luego es transferido a la imagen en vivo de la cámara web del computador, a una velocidad baja de alrededor 1 cuadro por segundo.
 
-## distancia manos KNN (2023) [link](https://andresmartinm.github.io/diseno-abierto-inteligencia-artificial-2023/distancia-dedos-knn/)
+### distancia manos KNN (2023) [link](https://andresmartinm.github.io/diseno-abierto-inteligencia-artificial-2023/distancia-dedos-knn/)
 
 esta obra usa un clasificador de posición de manos con un algoritmo KNN. esta información es usada para detectar en una webcam la posición de los dedos pulgar e índice de una mano, y según la distancia entre ellos, aumentar o disminuir la distancia entre caracteres de un elemento textual en una página web.
 
